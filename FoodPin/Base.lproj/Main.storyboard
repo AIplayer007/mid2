@@ -72,7 +72,7 @@
                                     <outlet property="nameLabel" destination="taS-VB-JQx" id="eVq-Lv-hy8"/>
                                     <outlet property="thumbnailImageView" destination="Uyc-zO-bcr" id="g4A-KE-K4Z"/>
                                     <outlet property="typeLabel" destination="5bq-jX-YeR" id="yJt-eb-I38"/>
-                                    <segue destination="Qti-9i-Ina" kind="show" identifier="showDetail" trigger="accessoryAction" id="sL2-gf-zhp"/>
+                                    <segue destination="Qti-9i-Ina" kind="show" identifier="showDetail" id="zQN-SW-WiE"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
